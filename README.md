@@ -5,7 +5,7 @@ I am a Bioinformatics Professional with a Master’s in Bioinformatics from Univ
 ### Key expertise:
 
   * RNA Sequencing & NGS Pipelines
-  * Machine Learning & Data Analysis (Python, R)
+  * Machine Learning & Data Analysis (Python, R, Bash)
   * Workflow Design & Bioinformatics Tools (Bioconductor, SAMtools)
   * Data Visualization (ggplot2, Matplotlib, Tableau)
 
