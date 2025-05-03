@@ -9,11 +9,13 @@ I am a Bioinformatics Professional with a Master’s in Bioinformatics from Univ
   * Workflow Design & Bioinformatics Tools
   * Data Visualization (ggplot2, Matplotlib, Tableau, Complex Heatmaps)
   * Proficient in Single-Cell RNA-Seq analysis
+  * Data management 
+
 
 ### Notable Impact:
 
   * Oral presentation at ECCO Summit 2025 on IBD subtypes
-  * Published abstract in Journal of Crohn’s and Colitis
+  * Published abstract in Journal of Crohn’s and Colitis 
   * Optimized sequencing workflows to improve efficiency
   * Identified biomarkers for early disease detection
 
