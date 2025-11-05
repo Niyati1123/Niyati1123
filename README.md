@@ -1,6 +1,6 @@
 ## Hi, I'm Niyati! 👋
 
-I am a Bioinformatics Professional with a Master’s in Bioinformatics from University of Birmingham, specializing in Bulk RNA Sequencing, NGS, and multi-omics studies. I bridge biology and informatics to extract actionable insights using data analysis, machine learning, and advanced visualization techniques. I enjoy collaborating with biologists, clinicians, and data scientists to uncover patterns that drive discovery and innovation.
+I am a Data Manager at the Cancer Clinical Informatics Team (CCI), Department of Oncology, University of Cambridge. I completed my masters in bioinformatics from University of Birmingham, specializing in Bulk RNA Sequencing, NGS, and multi-omics studies. I bridge biology and informatics to extract actionable insights using data analysis, machine learning, and advanced visualization techniques. I enjoy collaborating with biologists, clinicians, and data scientists to uncover patterns that drive discovery and innovation.
 
 ### Key expertise:
 
@@ -14,6 +14,7 @@ I am a Bioinformatics Professional with a Master’s in Bioinformatics from Univ
 
 ### Notable Impact:
 
+  * Research paper on "IBD Subtyping" published in SAGE TAG Journal
   * Oral presentation at ECCO Summit 2025 on IBD subtypes
   * Published abstract in Journal of Crohn’s and Colitis 
   * Optimized sequencing workflows to improve efficiency
